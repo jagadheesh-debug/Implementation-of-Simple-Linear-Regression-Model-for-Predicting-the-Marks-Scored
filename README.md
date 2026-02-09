@@ -80,8 +80,9 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 ```
 
 ## Output:
-<img width="604" height="672" alt="image" src="https://github.com/user-attachments/assets/8e7cc25a-7824-4d92-9726-5e3e51919c7e" />
-<img width="533" height="443" alt="image" src="https://github.com/user-attachments/assets/ba20dba8-1694-4a41-940a-6f97d657603a" />
+<img width="604" height="672" alt="Screenshot 2026-02-09 104300" src="https://github.com/user-attachments/assets/52bb9dbb-baf8-43f3-927f-ff488ea63542" />
+
+<img width="604" height="672" alt="Screenshot 2026-02-09 104300 - Copy" src="https://github.com/user-attachments/assets/98152e4d-00e7-41f3-9664-745d56535989" />
 
 
 
